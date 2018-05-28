@@ -17,3 +17,9 @@ Company is not seriouis about web presence may be because they are handling corp
 
 ## Work Culture ##
 It seems typical indian offshore development companies with paying less for traininees and long working hour conditions.
+[^1]glassdoor
+
+## Verdict ##
+I did not find any core value diffrentiator from other product development companies. 
+
+[^1]:https://www.glassdoor.com/Reviews/Avantel-Reviews-E347227.htm 
